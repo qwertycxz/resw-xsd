@@ -1,0 +1,3 @@
+[submodule "windows-dev-docs"]
+	path = windows-dev-docs
+	url = https://github.com/MicrosoftDocs/windows-dev-docs
